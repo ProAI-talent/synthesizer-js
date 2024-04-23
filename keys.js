@@ -1,3 +1,5 @@
+// Keyboard dataset
+
 export default {
 	c1: { key: "KeyA", midiIn: 48 },
 	cs1: { key: "KeyS", midiIn: 49 },
